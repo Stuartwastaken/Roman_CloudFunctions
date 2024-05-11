@@ -2,4 +2,4 @@ import * as admin from "firebase-admin";
 
 admin.initializeApp();
 
-// export * from "./controllers/addFriend";
+export * from "./controllers/scheduleAttackReset";
