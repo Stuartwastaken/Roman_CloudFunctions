@@ -8,3 +8,4 @@ typings/
 package-lock.json
 # Node.js dependency directory
 node_modules/
+.firebaserc
