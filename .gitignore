@@ -1,0 +1,10 @@
+# Compiled JavaScript files
+lib/**/*.js
+lib/**/*.js.map
+
+# TypeScript v1 declaration files
+typings/
+.DS_Store
+package-lock.json
+# Node.js dependency directory
+node_modules/
